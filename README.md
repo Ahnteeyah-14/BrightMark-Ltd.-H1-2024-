@@ -8,7 +8,7 @@ The goal was to transform raw, inconsistent sales data into an interactive execu
 
 This project demonstrates the complete data analysis workflow—from data cleaning and transformation to visualization, interpretation, and strategic business recommendations.
 
-##  2. Problem Statement
+#  2. Problem Statement
 
 BrightMark Ltd.'s management noticed inconsistencies in sales performance during the first half of 2024 and requested an analysis to understand what was driving revenue.
 
@@ -22,7 +22,7 @@ How did revenue change from January to June 2024?
 
 However, the available dataset contained several quality issues that prevented accurate reporting.
 
-# 3. Aim of the Project
+#  3. Aim of the Project
 
 ##  The objectives of this project were to:
 
@@ -31,7 +31,7 @@ Build an interactive Excel dashboard for executive reporting.
 Identify key sales trends and performance drivers.
 Answer business questions using data.
 Provide actionable recommendations to improve business performance.
-##  4. Skills & Concepts Demonstrated
+#  4. Skills & Concepts Demonstrated
 
 Throughout this project, I applied several data analytics skills, including:
 
@@ -43,7 +43,7 @@ Removing zero quantity records
 Removing invalid discounts (>100%)
 Standardizing text values
 Formatting date fields
-# Data Transformation
+##  Data Transformation
 Power Query
 Data validation
 Data profiling
@@ -61,7 +61,7 @@ Interactive Slicers
 Dynamic Charts
 Executive Reporting
 Data Storytelling
-##  5. Data Modelling
+# 5. Data Modelling
 
 Although this project was completed entirely in Microsoft Excel, a simple data model was established to support efficient analysis.
 
