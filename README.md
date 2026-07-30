@@ -1,6 +1,6 @@
 # # BrightMark-Ltd.-H1-2024-
 Sales Performance Analysis
-# 1. Introduction
+##  1. Introduction
 
 Data-driven decision-making is essential for organizations seeking to improve performance and maximize profitability. This project simulates a real-world business scenario in which I analyzed BrightMark Ltd.'s H1 2024 sales data using Microsoft Excel and Power Query.
 
@@ -8,11 +8,11 @@ The goal was to transform raw, inconsistent sales data into an interactive execu
 
 This project demonstrates the complete data analysis workflow—from data cleaning and transformation to visualization, interpretation, and strategic business recommendations.
 
-# 2. Problem Statement
+##  2. Problem Statement
 
 BrightMark Ltd.'s management noticed inconsistencies in sales performance during the first half of 2024 and requested an analysis to understand what was driving revenue.
 
-# The CEO wanted answers to the following business questions:
+##  The CEO wanted answers to the following business questions:
 
 Which product categories generated the highest revenue?
 Which regions performed best and worst?
@@ -24,18 +24,18 @@ However, the available dataset contained several quality issues that prevented a
 
 # 3. Aim of the Project
 
-# The objectives of this project were to:
+##  The objectives of this project were to:
 
 Clean and prepare the raw sales dataset for analysis.
 Build an interactive Excel dashboard for executive reporting.
 Identify key sales trends and performance drivers.
 Answer business questions using data.
 Provide actionable recommendations to improve business performance.
-# 4. Skills & Concepts Demonstrated
+##  4. Skills & Concepts Demonstrated
 
 Throughout this project, I applied several data analytics skills, including:
 
-# Data Cleaning
+##  Data Cleaning
 Removing duplicate records
 Handling missing values
 Removing negative unit prices
@@ -48,24 +48,24 @@ Power Query
 Data validation
 Data profiling
 Column transformation
-# Data Analysis
+##  Data Analysis
 Pivot Tables
 Pivot Charts
 KPI calculations
 Trend Analysis
 Comparative Analysis
 Correlation Analysis
-# Dashboard Design
+##  Dashboard Design
 KPI Cards
 Interactive Slicers
 Dynamic Charts
 Executive Reporting
 Data Storytelling
-# 5. Data Modelling
+##  5. Data Modelling
 
 Although this project was completed entirely in Microsoft Excel, a simple data model was established to support efficient analysis.
 
-# Dataset Structure
+##  Dataset Structure
 
 The cleaned dataset consisted of sales transaction records containing:
 
@@ -81,7 +81,7 @@ Revenue
 
 Power Query was used to transform and prepare the dataset before loading it into Excel for Pivot Table and dashboard creation.
 
-# 6. Dashboard Visualization
+##  6. Dashboard Visualization
 
 The final dashboard was designed to provide executives with a quick overview of business performance through interactive visualizations.
 
@@ -98,7 +98,7 @@ Interactive Slicers for easy filtering
 (Insert Dashboard Screenshot Here)
 
 # 7. Data Analysis
-# KPI Cards
+##  KPI Cards
 💰 Total Revenue — $46,718,368
 
 This represents the total revenue generated during the first half of 2024.
@@ -123,7 +123,7 @@ This KPI measures the average value generated from each completed order.
 
 A higher average order value generally indicates stronger sales performance.
 
-# Revenue by Product Category
+##  Revenue by Product Category
 
 Key Insight
 
@@ -134,7 +134,7 @@ Business Insight
 
 Electronics and Furniture are the company's primary revenue drivers. Together, they account for over 93% of total revenue, highlighting both their importance and the company's dependence on these two product categories.
 
-# Revenue by Region
+##  Revenue by Region
 
 Key Insight
 
@@ -145,7 +145,7 @@ Business Insight
 
 The company performs exceptionally well in Enugu, Kano, and Abuja. Port Harcourt presents an opportunity for targeted marketing initiatives and sales improvement strategies.
 
-# Monthly Revenue Trend
+##  Monthly Revenue Trend
 
 Key Insight
 
@@ -157,7 +157,7 @@ Business Insight
 
 The decline in Q1 followed by recovery in Q2 suggests possible seasonal demand or the impact of marketing campaigns. Understanding the drivers behind April's rebound could help sustain future growth.
 
-# Sales Representative Performance
+##  Sales Representative Performance
 
 Key Insight
 
@@ -167,7 +167,7 @@ Business Insight
 
 Experienced representatives slightly outperformed newer hires, reflecting the value of experience while also showing that newly recruited staff are already contributing significantly to overall sales.
 
-# Discount vs Revenue
+##  Discount vs Revenue
 
 Key Insight
 
@@ -177,7 +177,7 @@ Business Insight
 
 This finding suggests that the current discount strategy may not be maximizing profitability. Instead of applying broad discounts, the company should adopt more targeted promotional strategies.
 
-# 8. Recommendations
+##  8. Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 
@@ -197,9 +197,9 @@ Develop targeted marketing campaigns and customer engagement strategies for Port
 
 Provide ongoing training, mentoring, and performance support for new sales representatives to help them reach the productivity levels of experienced staff more quickly.
 
-#  Conclusion
+##   Conclusion
 
 This project demonstrates my ability to perform end-to-end data analysis using Microsoft Excel, from cleaning raw datasets with Power Query to building an interactive dashboard and translating data into actionable business insights.
 
 Beyond creating visualizations, the focus was on answering real business questions, identifying trends, and delivering recommendations that support informed decision-making.
-## THANK YOU
+# THANK YOU
