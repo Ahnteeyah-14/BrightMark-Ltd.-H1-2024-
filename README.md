@@ -101,11 +101,17 @@ Interactive Slicers for easy filtering
 ##  KPI Cards
 💰 Total Revenue — $46,718,368
 
+<img width="754" height="249" alt="image" src="https://github.com/user-attachments/assets/d7b1b986-6c30-4c47-8e1f-d37bac7f3237" />
+
+
 This represents the total revenue generated during the first half of 2024.
 
 It serves as the primary indicator of overall business performance.
 
 📦 Total Orders — 289
+
+<img width="694" height="254" alt="image" src="https://github.com/user-attachments/assets/f19ab323-3280-4dd1-8849-ae4f50e405c5" />
+
 
 A total of 289 completed customer orders were recorded.
 
@@ -113,17 +119,26 @@ Tracking order volume helps measure customer activity and sales demand.
 
 🛒 Total Quantity Sold — 2,940 Units
 
+<img width="747" height="254" alt="image" src="https://github.com/user-attachments/assets/e5800ffe-9da6-4743-a11b-ff6097a8ca56" />
+
+
 This KPI measures the total number of products sold during H1 2024.
 
 It provides insight into product movement and customer purchasing behavior.
 
 💵 Average Revenue per Order — $15,891
 
+<img width="824" height="318" alt="image" src="https://github.com/user-attachments/assets/6637537f-93db-45fa-a033-77bf190c1783" />
+
+
 This KPI measures the average value generated from each completed order.
 
 A higher average order value generally indicates stronger sales performance.
 
 ##  Revenue by Product Category
+
+<img width="1910" height="730" alt="image" src="https://github.com/user-attachments/assets/c7f92c8e-4015-4772-8dcd-6df046695c1a" />
+
 
 Key Insight
 
@@ -136,6 +151,9 @@ Electronics and Furniture are the company's primary revenue drivers. Together, t
 
 ##  Revenue by Region
 
+<img width="1865" height="729" alt="image" src="https://github.com/user-attachments/assets/2af2bedb-b7b7-409b-9072-ba04b4b0b92b" />
+
+
 Key Insight
 
 Enugu generated the highest revenue ($11.6M).
@@ -146,6 +164,9 @@ Business Insight
 The company performs exceptionally well in Enugu, Kano, and Abuja. Port Harcourt presents an opportunity for targeted marketing initiatives and sales improvement strategies.
 
 ##  Monthly Revenue Trend
+
+<img width="3863" height="754" alt="image" src="https://github.com/user-attachments/assets/d1525453-f102-4280-bcd5-758f8765806d" />
+
 
 Key Insight
 
@@ -159,6 +180,9 @@ The decline in Q1 followed by recovery in Q2 suggests possible seasonal demand o
 
 ##  Sales Representative Performance
 
+<img width="1926" height="777" alt="image" src="https://github.com/user-attachments/assets/25bfb271-9c5e-4db2-840f-6a6b7c3f0137" />
+
+
 Key Insight
 
 Experienced Representatives: $24.0M
@@ -168,6 +192,9 @@ Business Insight
 Experienced representatives slightly outperformed newer hires, reflecting the value of experience while also showing that newly recruited staff are already contributing significantly to overall sales.
 
 ##  Discount vs Revenue
+
+<img width="1936" height="774" alt="image" src="https://github.com/user-attachments/assets/1681949a-4fdc-4acf-b858-652fdcf9cf88" />
+
 
 Key Insight
 
