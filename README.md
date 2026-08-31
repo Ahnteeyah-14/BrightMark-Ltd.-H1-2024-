@@ -141,7 +141,7 @@ Electronics and Furniture are the company's primary revenue drivers. Together, t
 
 ##  Revenue by Region
 
-<img width="1865" height="729" alt="image" src="https://github.com/user-attachments/assets/2af2bedb-b7b7-409b-9072-ba04b4b0b92b" />
+<img width="1934" height="729" alt="image" src="https://github.com/user-attachments/assets/f6daae0f-d6fb-44a7-a6c4-7e7cdf67d35a" />
 
 
 Key Insight
@@ -155,7 +155,8 @@ The company performs exceptionally well in Enugu, Kano, and Abuja. Port Harcourt
 
 ##  Monthly Revenue Trend
 
-<img width="3863" height="754" alt="image" src="https://github.com/user-attachments/assets/d1525453-f102-4280-bcd5-758f8765806d" />
+<img width="3867" height="791" alt="image" src="https://github.com/user-attachments/assets/7b140a79-1b7a-4758-9519-7e90565c5b21" />
+
 
 
 Key Insight
@@ -170,7 +171,8 @@ The decline in Q1 followed by recovery in Q2 suggests possible seasonal demand o
 
 ##  Sales Representative Performance
 
-<img width="1926" height="777" alt="image" src="https://github.com/user-attachments/assets/25bfb271-9c5e-4db2-840f-6a6b7c3f0137" />
+<img width="1926" height="777" alt="image" src="https://github.com/user-attachments/assets/4c70b5c9-e47f-452e-a22a-de006844fc4a" />
+
 
 
 Key Insight
@@ -183,7 +185,8 @@ Experienced representatives slightly outperformed newer hires, reflecting the va
 
 ##  Discount vs Revenue
 
-<img width="1936" height="774" alt="image" src="https://github.com/user-attachments/assets/1681949a-4fdc-4acf-b858-652fdcf9cf88" />
+<img width="1936" height="774" alt="image" src="https://github.com/user-attachments/assets/09681cf1-e9da-4415-8953-b96617866061" />
+
 
 
 Key Insight
