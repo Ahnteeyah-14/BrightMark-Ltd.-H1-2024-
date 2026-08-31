@@ -95,14 +95,12 @@ Sales Representative Performance
 Discount vs Revenue Analysis
 Interactive Slicers for easy filtering
 
-(Insert Dashboard Screenshot Here)
+<img width="7540" height="2994" alt="image" src="https://github.com/user-attachments/assets/c22a9339-1676-4676-bc0d-a5d8f7e70803" />
+
 
 # 7. Data Analysis
 ##  KPI Cards
 💰 Total Revenue — $46,718,368
-
-<img width="754" height="249" alt="image" src="https://github.com/user-attachments/assets/d7b1b986-6c30-4c47-8e1f-d37bac7f3237" />
-
 
 This represents the total revenue generated during the first half of 2024.
 
@@ -110,17 +108,11 @@ It serves as the primary indicator of overall business performance.
 
 📦 Total Orders — 289
 
-<img width="694" height="254" alt="image" src="https://github.com/user-attachments/assets/f19ab323-3280-4dd1-8849-ae4f50e405c5" />
-
-
 A total of 289 completed customer orders were recorded.
 
 Tracking order volume helps measure customer activity and sales demand.
 
 🛒 Total Quantity Sold — 2,940 Units
-
-<img width="747" height="254" alt="image" src="https://github.com/user-attachments/assets/e5800ffe-9da6-4743-a11b-ff6097a8ca56" />
-
 
 This KPI measures the total number of products sold during H1 2024.
 
@@ -128,16 +120,14 @@ It provides insight into product movement and customer purchasing behavior.
 
 💵 Average Revenue per Order — $15,891
 
-<img width="824" height="318" alt="image" src="https://github.com/user-attachments/assets/6637537f-93db-45fa-a033-77bf190c1783" />
-
-
 This KPI measures the average value generated from each completed order.
 
 A higher average order value generally indicates stronger sales performance.
 
 ##  Revenue by Product Category
 
-<img width="1910" height="730" alt="image" src="https://github.com/user-attachments/assets/c7f92c8e-4015-4772-8dcd-6df046695c1a" />
+<img width="1910" height="730" alt="image" src="https://github.com/user-attachments/assets/e1b3b66e-6208-44e5-9ac4-27c6664014da" />
+
 
 
 Key Insight
